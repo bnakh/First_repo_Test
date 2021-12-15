@@ -1,0 +1,13 @@
+h2{
+    background-color: black;
+    color: bisque;
+    display: inline;
+    
+
+}
+button{
+    margin-top:10px ;
+ border: none;
+ border-radius: 5px;
+    display: block;
+}
